@@ -1,5 +1,7 @@
 ### Olá! Eu sou o Adamos Porfiro e estou iniciando no mundo de desenvolvimento web 👋
 
+<img src="https://github-readme-stats.vercel.app/api?username=AdamosPorfiro&show_icons=true&theme=dark">
+
 ### Redes sociais:
 <div> 
     <a href="https://www.instagram.com/adamos_porfiro/" target="blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="blank"></a>
