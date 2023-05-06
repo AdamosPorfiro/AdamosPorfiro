@@ -16,7 +16,6 @@
 
 <div align="center">  
 <a href="https://www.instagram.com/adamos_porfiro/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"</a>
-<a href="https:"https://www.facebook.com/AdamosPorfirodaSilva" target="_blank"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white"</a>
 </div>
 
 ### Minhas Habilidades:
